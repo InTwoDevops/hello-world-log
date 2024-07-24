@@ -15,4 +15,4 @@ spec:
       containers:
       - name: hello-world-container
         image: alpine:latest  # Use the Docker image built earlier
-        command: ["sh", "-c", "while true; do echo Hello, World!!; sleep 5; done"]
+        command: ["sh", "-c", "while true; do echo Hello, World!!!!; sleep 5; done"]
